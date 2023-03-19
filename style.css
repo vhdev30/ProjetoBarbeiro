@@ -1,0 +1,87 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Kaushan Script', cursive;
+}
+
+body{
+    background-image: url("https://media.timeout.com/images/105379307/image.jpg");
+
+}
+div {
+    display: flex;
+}
+aside {
+   
+    display: flex;
+    margin-left: 30vw;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin-top: 5px;
+    color: aliceblue;
+}
+
+h2 {
+    font-size:38px ;
+    margin: 55px 0 20px 50px;
+    color: aliceblue;
+    
+   
+}
+
+section{
+    
+    font-weight:bold;
+    margin-left: 80px;
+    font-size:30px ;
+    color: aliceblue;
+    
+    
+   
+}
+
+.img2{
+    width: 170px;
+    height: 165px;
+    border-radius: 30px;
+}
+.img3{
+    width: 170px;
+    border-radius: 30px;
+}
+.img4{
+    width: 170px;
+    height: 155px;
+    border-radius: 30px;
+}
+.img5{
+    width: 170px;
+    height: 175px;
+    border-radius: 30px;
+}
+.imgFace{
+width: 70px;
+border-radius: 60px;
+opacity: 0.9;
+outline: none;
+}
+.linkFace{
+cursor: pointer;
+
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 5px;
+    color: aliceblue;
+    font-weight:bold;
+    margin-bottom: 10px;
+}
